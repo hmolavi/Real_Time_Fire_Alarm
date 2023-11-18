@@ -12,3 +12,12 @@ Other tasks such as the user interface, communication and alarm managment tasks 
 
 ## Design Schematic
 ![circuit_schematic](https://github.com/hmolavi/Real_Time_Fire_Alarm/assets/75816912/64bb8f81-4405-4b97-a2ff-323629f57851)
+
+## Components Used
+- STM32 Nucleo-F401RE
+- 16x2 LCD Display
+- IR Sensor Receiver 
+- IR LED
+- LED
+- CD74HC4050E Digital Buffer
+- 2 x 220ohm resistors
